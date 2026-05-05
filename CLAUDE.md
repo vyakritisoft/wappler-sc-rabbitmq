@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Wappler Server Connect extension for RabbitMQ queue management. Uses `amqplib` to offload task execution via message queues. Published as `@cdmx/wappler_sc_rabbitmq`.
+Wappler Server Connect extension for RabbitMQ queue management. Uses `amqplib` to offload task execution via message queues. Published as `@vyakriti/wappler_sc_rabbitmq`.
 
 ## Architecture
 
