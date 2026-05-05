@@ -1,6 +1,6 @@
 {
   "name": "@vyakriti/wappler_sc_rabbitmq",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "type": "module",
   "description": "Wappler Server Connect extension for RabbitMQ queue management",
   "license": "MIT",

@@ -1,0 +1,6 @@
+.claude/
+.github/
+.gitignore
+CLAUDE.md
+eslint.config.js
+node_modules/
