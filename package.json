@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@cdmx/wappler_sc_rabbitmq": "^0.0.1"
+  }
+}
