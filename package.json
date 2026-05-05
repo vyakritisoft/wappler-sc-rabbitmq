@@ -1,5 +1,19 @@
 {
+  "name": "@cdmx/wappler_sc_rabbitmq",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Wappler Server Connect extension for RabbitMQ queue management",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint .",
+    "build": "rollup --config",
+    "publish-dry-run": "npm publish --access public --dry-run"
+  },
   "dependencies": {
-    "@cdmx/wappler_sc_rabbitmq": "^0.0.1"
+    "amqplib": "^0.10.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.3.0"
   }
 }
